@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="webservices:javaEEApplication exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/webservices_javaEEApplication_exploded</output-path>
-    <root id="archive" name="webservices_javaEEApplication exploded.jar">
-      <element id="javaee-facet-resources" facet="webservices/javaeeApplication/javaEEApplication" />
-    </root>
-  </artifact>
-</component>
